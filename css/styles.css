@@ -1489,9 +1489,9 @@ button {
 }
 
 .modal-textarea::placeholder {
-  font-size: 13px;
+  font-size: 10px;
   letter-spacing: -0.02em;
-  color: rgba(64, 64, 64, 0.3);
+  color: rgba(231, 230, 230, 0.3);
 }
 
 .modal-link-orange {
